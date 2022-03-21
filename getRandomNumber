@@ -1,9 +1,0 @@
-import java.util.concurrent.ThreadLocalRandom;
-public class guessTheNumber {
-
-
-    public int getRandomNumber (int min, int max){
-        int randomNumber = ThreadLocalRandom.current().nextInt(min, max + 1);
-        return randomNumber;
-    }
-}
