@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Team-Bro</string>
+    <string name="Title">Guess The Number!</string>
+    <string name="Game_Description">Guess the number between 0 and </string>
+    <string name="EnterNumber">Enter Guess</string>
+    <string name="GuessButton">GUESS!</string>
+    <string name="HigherOrLower">Higher or Lower?</string>
+</resources>
